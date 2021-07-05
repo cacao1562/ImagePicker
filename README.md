@@ -14,7 +14,7 @@
 ## Tech stack & Open-source libraries
 - Minimum SDK level 23
 - [Kotlin](https://kotlinlang.org/) based
-- [ActivityResultContracts] (https://developer.android.com/reference/androidx/activity/result/contract/ActivityResultContracts) 
+- [ActivityResultContracts](https://developer.android.com/reference/androidx/activity/result/contract/ActivityResultContracts) 
 - [Glide](https://github.com/bumptech/glide) - loading images.
 
 
